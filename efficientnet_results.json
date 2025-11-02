@@ -1,0 +1,16 @@
+{
+    "Model": "EfficientNetB0",
+    "Date": "2025-11-02 05:13",
+    "Training_Time_Minutes": 44.3,
+    "Best_Epoch": 7,
+    "Val_AUC": 0.9521792531013489,
+    "Val_Accuracy": 0.9521502256393433,
+    "Val_Precision": 0.9521502256393433,
+    "Val_Recall": 0.9521502256393433,
+    "Train_Samples": 6602,
+    "Val_Samples": 1651,
+    "Class_Ratio": "20:1",
+    "Image_Size": "224x224",
+    "Batch_Size": 32,
+    "Learning_Rate": "1e-4"
+}
